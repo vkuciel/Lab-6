@@ -1,6 +1,6 @@
 /*
  * Jake Lampert (33%)
- * Lorna Michaels (33%)
+ * Lorna Martel (33%)
  * Victor Kuciel (33%)
  */
 package pkgPoker.app.controller;
